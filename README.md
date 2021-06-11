@@ -1,6 +1,6 @@
 # E-Tourism-Recommendation-System
 
-I used prolog to recommend to the customer an offer accordingly. See description behind project.
+We used prolog to recommend to the customer an offer accordingly. See description behind project.
 
 Travel agencies providing a knowledge base of the available offers they could recommend to customers. For
 each of those offers, the accommodation and means of transportation is specified. Moreover, they all also
